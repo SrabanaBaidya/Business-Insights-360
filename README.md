@@ -1,12 +1,12 @@
-# Business-Insights 360
+# Business-Insights
 
 ## Overview 🚀
 
 AtliQ Hardware is on the fast track to growth and has made the strategic decision to implement data analytics using Power BI for the first time. The primary objective is to gain a competitive edge in the market and enable data-driven decision-making across finance, sales, marketing, and supply chain domains.
 
-This project was undertaken with guidance from the Codebasics Power BI Course. You can access the course [here](course_link).
+This project was undertaken with guidance from the Codebasics Power BI Course. You can access the course [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance?utm_campaign=dataanalyticsbootcamp&utm_id=googleadspaid&gad_source=1&gclid=CjwKCAjwrIixBhBbEiwACEqDJV0hJVKHZ5OyeNei0RfP7AuoiRGaSyGVuKl1NK1I9gQ3JMoLWzJsqRoCJvMQAvD_BwE).
 
-Explore the live report [here](live_report_link).
+Explore the live report [here](https://app.powerbi.com/view?r=eyJrIjoiMTBlMWQ4ZDAtOWI3OS00MWRkLWIzODMtNmZkOTZkMWI4NDZlIiwidCI6IjUyM2QzZThmLTQ4NmMtNDA0Ny04NjY5LWQ4ZmE4N2QxZGRiNiJ9).
 
 ## Tools Used 🔧
 
